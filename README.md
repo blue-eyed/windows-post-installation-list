@@ -15,7 +15,6 @@
 **[Skype]** (block ads)  
 **Office 2010** (first run CCleaner and .net)  
 **Activator** (Win + office)  
-
 ---
 ## If needed:
 * Microsoft [.NET framework 4.6.2] (+)
@@ -23,16 +22,14 @@
 * Java
 * Microsoft Visual C++ Redistributable 2015
 * DirectX
-
 ---
 Script that removes unnecessary updates  
-`https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9`
+[https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]
 ---
 Disable system protection  
 Disable hibernation  
 Remove Skype from startup  
 Run CCleaner  
-
 ---
 [Avast!]: <https://www.avast.com/index>
 [Chrome]: <https://www.google.com/chrome/browser/desktop/>
@@ -45,3 +42,4 @@ Run CCleaner
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
 [.NET framework 4.6.2]: <https://www.microsoft.com/en-us/download/details.aspx?id=53345>
+[https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
