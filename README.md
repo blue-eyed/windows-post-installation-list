@@ -6,7 +6,7 @@
 **[Avast!]** (settings, e-mail signature)  
 **[Malwarebytes Anti-Malware]**  
 **[uTorrent]** (limit upload, [remove ads])  
-**WinRAR** 5.40 (+)  
+**[WinRAR]** 5.40 (+)  
 **[Daemon tools lite]**  
 **[aimp3]**  
 **[GOM player]** (setup subtitle langugage and preferences)  
@@ -36,6 +36,7 @@ Run CCleaner
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
 [uTorrent]: <http://www.utorrent.com/intl/en>
 [remove ads]: <https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/?page=3>
+[WinRAR]: <https://thepiratebay.org/search/winrar/0/99/0>
 [Daemon tools lite]: <http://www.disk-tools.com/download/daemon>
 [aimp3]: <http://www.aimp.ru/>
 [GOM player]: <http://filehippo.com/download_gom_player>
