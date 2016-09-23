@@ -12,7 +12,7 @@
 **[GOM player]** (setup subtitle langugage and preferences)  
 **[CCleaner]** (disable system monitoring)  
 **[Adobe Reader]**  
-**[Skype]** (block ads)  
+**[Skype]** ([block ads])  
 **Office 2010** (first run CCleaner and .net)  
 **Activator** (Win + office)  
 ---
@@ -42,5 +42,6 @@ Run CCleaner
 [CCleaner]: <http://filehippo.com/download_ccleaner>
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
+[block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
 [.NET framework 4.6.2]: <https://www.microsoft.com/en-us/download/details.aspx?id=53345>
 [https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
