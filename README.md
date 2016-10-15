@@ -1,5 +1,3 @@
-# TO-DO list for a fresh windows installation
----
 **UAC** (Start > search UAC > disable)  
 **Clock/keyboard**  
 **[Chrome]** (settings, uBlock origin)  
