@@ -7,7 +7,7 @@
 **[WinRAR]** 5.40 (+)  
 **[Daemon tools lite]**  
 **[aimp3]**  
-**[GOM player]** (setup subtitle langugage and preferences)  
+**[GOM player]** (subtitle langugage, preferences, [remove GOM ads])  
 **[CCleaner]** (disable system monitoring)  
 **[Adobe Reader]**  
 **[Skype]** ([block ads])  
@@ -38,6 +38,7 @@ Run CCleaner
 [Daemon tools lite]: <http://www.disk-tools.com/download/daemon>
 [aimp3]: <http://www.aimp.ru/>
 [GOM player]: <http://filehippo.com/download_gom_player>
+[remove GOM ads]: <https://howtoremove.guide/remove-gom-player-advertisement/>
 [CCleaner]: <http://filehippo.com/download_ccleaner>
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
