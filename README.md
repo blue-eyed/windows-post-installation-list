@@ -21,6 +21,7 @@
 * Java
 * Microsoft Visual C++ Redistributable 2015
 * DirectX
+* [inSSIDer]
 ---
 Script that removes unnecessary updates  
 [https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]
@@ -46,3 +47,4 @@ Run CCleaner
 [block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
 [.NET framework 4.6.2]: <https://www.microsoft.com/en-us/download/details.aspx?id=53345>
 [https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
+[inSSIDer]: <https://thepiratebay.org/search/inssider/0/99/0>
