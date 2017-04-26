@@ -3,6 +3,7 @@
 **Clock/keyboard**  
 **[Chrome]** (settings, uBlock origin)  
 **[Avast!]** (settings, e-mail signature)  
+**[Disable Cortana]**  
 **[Malwarebytes Anti-Malware]**  
 **[uTorrent]** (limit upload, [remove ads])  
 **[WinRAR]** 5.40 (+)  
@@ -12,7 +13,7 @@
 **[CCleaner]** (disable system monitoring)  
 **[Adobe Reader]**  
 **[Skype]** ([block ads])  
-**Office 2010** (first run CCleaner and .net)  
+**Office 2010** (run CCleaner and .net before installation)  
 **Activator** (Win + office)  
 
 ---
@@ -33,6 +34,7 @@ Remove Skype from startup
 Run CCleaner  
 
 [Avast!]: <https://www.avast.com/index>
+[Disable Cortana]: <https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/>
 [Chrome]: <https://www.google.com/chrome/browser/desktop/>
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
 [uTorrent]: <http://www.utorrent.com/intl/en>
