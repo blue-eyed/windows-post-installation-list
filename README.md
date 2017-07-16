@@ -19,7 +19,6 @@
 ---
 ### If needed:
 * Microsoft [.NET framework 4.6.2] (+)
-* World Weather gadget (orange)
 * Java
 * Microsoft Visual C++ Redistributable 2015
 * DirectX
