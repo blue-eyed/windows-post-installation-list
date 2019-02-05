@@ -25,13 +25,8 @@
 
 
 ## If needed:
-* Microsoft [.NET framework 4.6.2] (+)
-* Java
-* Microsoft Visual C++ Redistributable
-* DirectX
 * [Steam]
 * [Ninite] - Install and Update All Your Programs at Once 
-
 
 ---
 [Script that removes unnecessary updates for Win 7/8.1]  
@@ -45,8 +40,6 @@ Run CCleaner
 [1.1.1.1]: <https://1.1.1.1/>
 [Chrome]: <https://www.google.com/chrome/>
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
-[uTorrent]: <http://www.utorrent.com/intl/en>
-[remove ads]: <https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/?page=3>
 [WinRAR]: <https://www.rarlab.com/download.htm>
 [Daemon tools lite]: <http://www.disk-tools.com/download/daemon>
 [aimp3]: <http://www.aimp.ru/>
@@ -56,12 +49,9 @@ Run CCleaner
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
 [block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
-[.NET framework 4.6.2]: <https://www.microsoft.com/en-us/download/details.aspx?id=53345>
-[https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
-[inSSIDer]: <https://thepiratebay.org/search/inssider/0/99/0>
 [Script that removes unnecessary updates for Win 7/8.1]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
 [Blocking Unwanted Connections with a Hosts File]: <http://winhelp2002.mvps.org/hosts.htm>
-[Script for automation of routine tasks done ]:<https://github.com/Disassembler0/Win10-Initial-Setup-Script>
+[Script for automation of routine tasks done]:<https://github.com/Disassembler0/Win10-Initial-Setup-Script>
 [Ninite]:<https://ninite.com/>
 [Steam]:<https://store.steampowered.com/>
 [VLC media player ]:<https://www.videolan.org/vlc/index.html>
