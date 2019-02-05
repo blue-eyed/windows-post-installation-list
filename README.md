@@ -6,8 +6,7 @@
 **[Chrome]** (settings, uBlock origin)  
 **[Avast!]** (settings, e-mail signature)  
 **[Malwarebytes Anti-Malware]**  
-**[uTorrent]** (limit upload, [remove ads])  
-**[WinRAR]** 5.50 (+)  
+**[WinRAR]** 5.61(+)  
 **[qBittorrent]**  
 **[Daemon tools lite]**  
 **[aimp3]**  
@@ -22,7 +21,7 @@
 ## Windows 10:
 **[Blocking Unwanted Connections with a Hosts File]**  
 **[Script for automation of routine tasks done ]**  
-**[Disable Cortana]**  
+**[Disable compression for wallpapers on Windows 10]** 
 
 
 ## If needed:
@@ -43,7 +42,6 @@ Remove Skype from startup
 Run CCleaner  
 
 [Avast!]: <https://www.avast.com/en-eu/index>
-[Disable Cortana]: <https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/>
 [1.1.1.1]: <https://1.1.1.1/>
 [Chrome]: <https://www.google.com/chrome/>
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
@@ -68,3 +66,4 @@ Run CCleaner
 [Steam]:<https://store.steampowered.com/>
 [VLC media player ]:<https://www.videolan.org/vlc/index.html>
 [qBittorrent]:<https://www.qbittorrent.org/>
+[Disable compression for wallpapers on Windows 10]:<https://www.windowscentral.com/how-disable-image-compression-desktop-wallpapers-windows-10>
