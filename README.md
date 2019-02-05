@@ -1,7 +1,8 @@
 # Common:  
-**Owner username and email?**  
+**Owner full name**  
 **UAC** (Start > search UAC > disable)  
 **Clock/keyboard**  
+**[1.1.1.1]**  
 **[Chrome]** (settings, uBlock origin)  
 **[Avast!]** (settings, e-mail signature)  
 **[Malwarebytes Anti-Malware]**  
@@ -43,6 +44,7 @@ Run CCleaner
 
 [Avast!]: <https://www.avast.com/en-eu/index>
 [Disable Cortana]: <https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/>
+[1.1.1.1]: <https://1.1.1.1/>
 [Chrome]: <https://www.google.com/chrome/>
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
 [uTorrent]: <http://www.utorrent.com/intl/en>
