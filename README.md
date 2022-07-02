@@ -45,7 +45,7 @@ Run CCleaner
 [aimp3]: <http://www.aimp.ru/>
 [GOM player]: <http://filehippo.com/download_gom_player>
 [remove GOM ads]: <https://howtoremove.guide/remove-gom-player-advertisement/>
-[CCleaner]: <http://filehippo.com/download_ccleaner>
+[CCleaner]: <https://www.ccleaner.com/ccleaner/download/standard>
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
 [block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
@@ -55,5 +55,5 @@ Run CCleaner
 [Ninite]:<https://ninite.com/>
 [Steam]:<https://store.steampowered.com/>
 [VLC media player ]:<https://www.videolan.org/vlc/index.html>
-[qBittorrent]:<https://www.qbittorrent.org/>
+[qBittorrent]:<https://www.qbittorrent.org/download.php>
 [Disable compression for wallpapers on Windows 10]:<https://www.windowscentral.com/how-disable-image-compression-desktop-wallpapers-windows-10>
