@@ -32,7 +32,6 @@
 
 Disable system protection  
 Disable hibernation  
-Remove Skype from startup  
 Run CCleaner  
 
 [Avast!]: <https://www.avast.com/en-eu/index>
