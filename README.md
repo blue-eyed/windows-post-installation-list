@@ -1,16 +1,16 @@
-# Common:  
-**Owner full name**  
-**UAC** (Start > search UAC > disable)  
-**Clock/keyboard**  
+# Windows 10 post-installation checklist:  
+**Acquire owners full name**  
+**Disable UAC** (Start > search "UAC" > disable)  
+**Set timezone, regional options and add keyboard layouts**  
 **[1.1.1.1]**  
+**[Set This PC as default]**  
 **[Chrome]** (settings, uBlock origin)  
 **[Avast!]** (settings, e-mail signature)  
 **[Malwarebytes Anti-Malware]**  
-**[WinRAR]** 5.61(+)  
+**[WinRAR]** 6.11(+)  
 **[qBittorrent]**  
 **[Daemon tools lite]**  
 **[aimp3]**  
-**[GOM player]** (subtitle langugage, preferences, [remove GOM ads])  
 **[VLC media player ]**  
 **[CCleaner]** (disable system monitoring)  
 **[Adobe Reader]**  
@@ -20,29 +20,21 @@
 ## Windows 10:
 **[Blocking Unwanted Connections with a Hosts File]**  
 **[Script for automation of routine tasks done ]**  
-**[Disable compression for wallpapers on Windows 10]** 
+**[Disable compression for wallpapers on Windows 10]**  
 
 
 ## If needed:
 * [Steam]
 * [Ninite] - Install and Update All Your Programs at Once 
 
----
-[Script that removes unnecessary updates for Win 7/8.1]  
-
-Disable system protection  
-Disable hibernation  
-Run CCleaner  
-
 [Avast!]: <https://www.avast.com/en-eu/index>
-[1.1.1.1]: <https://1.1.1.1/>
+[1.1.1.1]: <https://1.1.1.1/dns/>
+[Set This PC as default]: <https://www.howtogeek.com/720084/how-to-make-file-explorer-open-to-this-pc-instead-of-quick-access/>
 [Chrome]: <https://www.google.com/chrome/>
 [Malwarebytes Anti-Malware]: <https://www.malwarebytes.com/mwb-download/>
 [WinRAR]: <https://www.rarlab.com/download.htm>
 [Daemon tools lite]: <http://www.disk-tools.com/download/daemon>
 [aimp3]: <http://www.aimp.ru/>
-[GOM player]: <http://filehippo.com/download_gom_player>
-[remove GOM ads]: <https://howtoremove.guide/remove-gom-player-advertisement/>
 [CCleaner]: <https://www.ccleaner.com/ccleaner/download/standard>
 [Adobe Reader]: <https://get.adobe.com/reader/>
 [block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
