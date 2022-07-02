@@ -14,7 +14,6 @@
 **[VLC media player ]**  
 **[CCleaner]** (disable system monitoring)  
 **[Adobe Reader]**  
-**[Skype]** ([block ads])  
 **Office** (run CCleaner before installation)  
 **Activator** (Win + office)  
 
@@ -47,7 +46,6 @@ Run CCleaner
 [remove GOM ads]: <https://howtoremove.guide/remove-gom-player-advertisement/>
 [CCleaner]: <https://www.ccleaner.com/ccleaner/download/standard>
 [Adobe Reader]: <https://get.adobe.com/reader/>
-[Skype]: <https://www.skype.com/en/download-skype/skype-for-computer/>
 [block ads]: <http://winaero.com/blog/how-to-disable-ads-in-skype-updated-for-recent-versions/>
 [Script that removes unnecessary updates for Win 7/8.1]: <https://gist.github.com/xvitaly/eafa75ed2cb79b3bd4e9>
 [Blocking Unwanted Connections with a Hosts File]: <http://winhelp2002.mvps.org/hosts.htm>
