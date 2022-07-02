@@ -26,6 +26,7 @@
 ## If needed:
 * [Steam]
 * [Ninite] - Install and Update All Your Programs at Once 
+* [Display Driver Uninstaller]
 
 [Avast!]: <https://www.avast.com/en-eu/index>
 [1.1.1.1]: <https://1.1.1.1/dns/>
@@ -46,3 +47,4 @@
 [VLC media player ]:<https://www.videolan.org/vlc/index.html>
 [qBittorrent]:<https://www.qbittorrent.org/download.php>
 [Disable compression for wallpapers on Windows 10]:<https://www.windowscentral.com/how-disable-image-compression-desktop-wallpapers-windows-10>
+[Display Driver Uninstaller]: <https://www.guru3d.com/files-details/display-driver-uninstaller-download.html>
