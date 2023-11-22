@@ -1,22 +1,22 @@
 # Windows 10 post-installation checklist:  
-**[Search for latest windows 10]**  
-**Acquire owners full name**  
-**Disable UAC** (Start > search "UAC" > disable)  
-**Set timezone, regional options and add keyboard layouts**  
-**[1.1.1.1]**  
-**[Set This PC as default]**  
-**[Chrome]** (settings, uBlock origin)  
-**[Malwarebytes Anti-Malware]**  
-**[WinRAR]** 6.22(+)  
-**[qBittorrent]**  
-**[aimp3]**  
-**[VLC media player ]**  
-**[CCleaner]** (disable system monitoring)  
-**[Adobe Reader]**  
-**Office** (run CCleaner before installation)  
-**Activator** (Win + office)  
-**[Disable compression for wallpapers on Windows 10]**  
-**[Sophia Script for automating the routine tasks]**  
+- [ ] **[Search for latest windows 10]**  
+- [ ] **Acquire owners full name**  
+- [ ] **Disable UAC** (Start > search "UAC" > disable)  
+- [ ] **Set timezone, regional options and add keyboard layouts**  
+- [ ] **[1.1.1.1]**  
+- [ ] **[Set This PC as default]**  
+- [ ] **[Chrome]** (settings, uBlock origin)  
+- [ ] **[Malwarebytes Anti-Malware]**  
+- [ ] **[WinRAR]** 6.22(+)  
+- [ ] **[qBittorrent]**  
+- [ ] **[aimp3]**  
+- [ ] **[VLC media player ]**  
+- [ ] **[CCleaner]** (disable system monitoring)  
+- [ ] **[Adobe Reader]**  
+- [ ] **Office** (run CCleaner before installation)  
+- [ ] **Activator** (Win + office)  
+- [ ] **[Disable compression for wallpapers on Windows 10]**  
+- [ ] **[Sophia Script for automating the routine tasks]**  
 
 
 ## Optional:
