@@ -1,5 +1,5 @@
 # Windows 10 post-installation checklist:  
-**[Search for latest windows 10]**
+**[Search for latest windows 10]**  
 **Acquire owners full name**  
 **Disable UAC** (Start > search "UAC" > disable)  
 **Set timezone, regional options and add keyboard layouts**  
